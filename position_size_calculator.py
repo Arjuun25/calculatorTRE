@@ -1,4 +1,3 @@
-# calculatorTRE
 # Position Size Calculator
 
 # Get user inputs
